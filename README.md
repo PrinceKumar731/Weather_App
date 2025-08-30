@@ -35,4 +35,5 @@ Add your API key in the project (e.g., secrets.dart).
 
 ## 📸 Screenshot  
 
-![Weather App Screenshot](WhatsApp%20Image%202025-08-30%20at%2016.18.05_0aee5346.jpg)
+<img src="WhatsApp%20Image%202025-08-30%20at%2016.18.05_0aee5346.jpg" alt="Weather App Screenshot" width="300"/>
+
