@@ -31,3 +31,8 @@ flutter pub get
 Get a free API key from OpenWeather
 
 Add your API key in the project (e.g., secrets.dart).
+
+
+## 📸 Screenshot  
+
+![Weather App Screenshot](WhatsApp%20Image%202025-08-30%20at%2016.18.05_0aee5346.jpg)
